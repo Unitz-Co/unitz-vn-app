@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["HomeIndex"],"mappings":"4FAAA,uBAEeA,YAAf","file":"component---src-pages-index-js-012347805439e340f018.js","sourcesContent":["import HomeIndex from './home';\n\nexport default HomeIndex;\n"],"sourceRoot":""}
