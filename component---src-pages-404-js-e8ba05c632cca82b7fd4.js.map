@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["Page404"],"mappings":"4FAAA,OAIeA,UAJC,WACd,OAAO","file":"component---src-pages-404-js-e8ba05c632cca82b7fd4.js","sourcesContent":["const Page404 = () => {\n  return null;\n};\n\nexport default Page404;\n"],"sourceRoot":""}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/templates/data/index.js"],"names":["component"],"mappings":"4FAAA,iDAAO,IAAMA,EAAY,WACvB,OAAO,MAGMA","file":"component---src-templates-data-index-js-948ead433a639c5b6d91.js","sourcesContent":["export const component = () => {\n  return null;\n};\n\nexport default component;\n"],"sourceRoot":""}
