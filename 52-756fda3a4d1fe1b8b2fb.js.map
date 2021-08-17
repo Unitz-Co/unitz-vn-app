@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:////Volumes/Data/working/Unitz/ws-app-web/modules/unitz-components-web/VideoCall/components/OpenTok/OTSubscriber.js"],"names":["OTSubscriber"],"mappings":"4FAAA,uBAEeA,YAAf","file":"52-756fda3a4d1fe1b8b2fb.js","sourcesContent":["import { OTSubscriber } from 'opentok-react';\n\nexport default OTSubscriber;\n"],"sourceRoot":""}

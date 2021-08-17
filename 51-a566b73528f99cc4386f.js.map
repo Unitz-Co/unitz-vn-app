@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:////Volumes/Data/working/Unitz/ws-app-web/modules/unitz-components-web/VideoCall/components/OpenTok/OTStreams.js"],"names":["OTStreams"],"mappings":"4FAAA,uBAEeA,YAAf","file":"51-a566b73528f99cc4386f.js","sourcesContent":["import { OTStreams } from 'opentok-react';\n\nexport default OTStreams;\n"],"sourceRoot":""}
