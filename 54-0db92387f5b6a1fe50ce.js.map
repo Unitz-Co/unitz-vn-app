@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:////Volumes/Data/working/Unitz/ws-app-web/modules/unitz-components-web/VoiceCall/components/OpenTok/OTPublisher.js"],"names":["OTPublisher"],"mappings":"8FAAA,uBAEeA,YAAf","file":"54-0db92387f5b6a1fe50ce.js","sourcesContent":["import { OTPublisher } from 'opentok-react';\n\nexport default OTPublisher;\n"],"sourceRoot":""}

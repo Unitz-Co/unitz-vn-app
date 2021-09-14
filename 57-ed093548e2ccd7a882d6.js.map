@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:////Volumes/Data/working/Unitz/ws-app-web/modules/unitz-components-web/VoiceCall/components/OpenTok/OTSubscriber.js"],"names":["OTSubscriber"],"mappings":"8FAAA,uBAEeA,YAAf","file":"57-ed093548e2ccd7a882d6.js","sourcesContent":["import { OTSubscriber } from 'opentok-react';\n\nexport default OTSubscriber;\n"],"sourceRoot":""}
